@@ -1,0 +1,9 @@
+﻿<ScrollViewer>
+	<Border BorderBrush="Gray" BorderThickness="2">
+		<ToolTipService.ToolTip>
+			Enter your message here.
+		</ToolTipService.ToolTip>
+		<TextBox Width="200" Height="30"/>
+	</Border>
+</ScrollViewer>
+
